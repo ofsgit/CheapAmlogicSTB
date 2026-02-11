@@ -5,4 +5,4 @@ for Internet Connectivity, it tends to use the RealTek RTL8189FTV, which talks t
 
 it runs on Android™ 6.0.1 (from what i have) 
 
-for flashing a firmware, you need USB-Burning-Tool and a image to flash, or boot from SD-Card
+for flashing a firmware, you need USB-Burning-Tool and a image to flash, or boot from SD-Card through Android by Terminal (SU Needed)
