@@ -9,8 +9,6 @@ Have fun with your new box:)
 This is my device:
 * p212
   
-you can share your hardware findings on this page :)
+share your STB hardware findings on this page :)
 ----------------------------------------------------
-
--Author by OFS(Tristan)
   
