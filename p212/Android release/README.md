@@ -1,4 +1,4 @@
-# Android™ 6.0.1 Release by CheapAmlogicSTB
+# Android™ 12 Release by CheapAmlogicSTB
  What's New:
  * Bare Minimum
  * fugu/fugu board
