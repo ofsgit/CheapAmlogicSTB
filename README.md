@@ -1,7 +1,7 @@
 # CheapAmlogicSTB
-🧠📦 **CheapAmlogicSTB** is a community-driven project focused on understanding, modifying, and extending **low-cost Amlogic-based set-top boxes (STBs)**.  
+
+**CheapAmlogicSTB** is a project for understanding, modifying, and extending-support on **low-cost Amlogic-based set-top boxes (STBs)**.  
 It exists for tinkerers, reverse engineers, and curious minds who want to squeeze more life out of inexpensive hardware.
-
-This project documents experiments, findings, tools, and workflows related to cheap Amlogic devices often found in TV boxes, and embedded systems.
-
----
+This project has experiments, findings, tools, and workflows related to cheap Amlogic devices often found in TV boxes, and embedded systems.
+Have fun with your new box:)
+---------------------------------------------------------------------------------------------------------------------------------------------
