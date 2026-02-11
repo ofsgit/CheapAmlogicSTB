@@ -4,5 +4,7 @@
  * fugu/fugu board
  * Basic AOSP Google Play Service
  * AOSP Play Store for TV
+ * Runs Lite (smooth) 
  * ATV Launcher
+ * no addons
  
