@@ -10,4 +10,6 @@ This is my device:
   
 you can share your hardware findings on this page :)
 ----------------------------------------------------
+
+-Author by OFS(Tristan)
   
