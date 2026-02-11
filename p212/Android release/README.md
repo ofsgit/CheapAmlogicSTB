@@ -9,3 +9,4 @@
  * ATV Launcher
  * no addons
  
+Android is a trademark of Google LLC. AOSP is used in this project.
