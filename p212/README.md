@@ -1,4 +1,4 @@
-# p212 model
+# P212/HG680P
 a typical p212 model uses the Amlogic S905X, it has 2GB of ram and 8GB Storage with Ethernet, SPDIF, HDMI Out, AV Out. it also has 2 USB Port(Host) and 1 SD Card slot
 
 for Internet Connectivity, it tends to use the internal Ethernet and RealTek RTL8189FTV(WiFi), which talks through Hi-Speed Bus. the RealTek RTL8189FTV supports WiFi 4 MIMO1x1 And WiFi-Direct(not sure about WPS)
