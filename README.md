@@ -11,6 +11,7 @@ Have fun with your new box:)
 because this repo shares everything, from tools and image to flash it to your Amlogic set-top-boxes!
 
 My Tinker device:
+* Akari AX512 (ISP Box)
 * GenericAmlogicBox
 * p212
   
