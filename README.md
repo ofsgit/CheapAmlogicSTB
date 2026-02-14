@@ -15,4 +15,11 @@ My Tinker device:
   
 share your STB hardware findings on this page :)
 ----------------------------------------------------
-  
+
+
+
+
+
+
+
+-Author by Tristan
