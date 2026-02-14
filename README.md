@@ -11,6 +11,7 @@ Have fun with your new box:)
 because this repo shares everything, from tools and image to flash it to your Amlogic set-top-boxes!
 
 My Tinker device:
+* GenericAmlogicBox
 * p212
   
 share your STB hardware findings on this page :)
@@ -20,6 +21,7 @@ share your STB hardware findings on this page :)
 
 
 
+# Credits:
 
-
--Author by Tristan
+-Author by OFSGit
+-for community!
