@@ -14,6 +14,10 @@ My Tinker device:
 * Akari AX512 (ISP Box)
 * GenericAmlogicBox
 * p212
+
+What i want to Experiment next:
+* H96 Max
+* Other cheap Amlogic Box
   
 share your STB hardware findings on this page :)
 ----------------------------------------------------
