@@ -1,5 +1,5 @@
 # Generic Amlogic Box
-![Screenshot](https://example.com/image.png](https://ofsgit.github.io/CheapAmlogicSTB/GenericAmlogicBox/assets/frontGeneric.jpg)
+![Screenshot](https://ofsgit.github.io/CheapAmlogicSTB/GenericAmlogicBox/assets/frontGeneric.jpg)
 
 a typical Generic Amlogic box uses the Amlogic S905X-B, with --/-- Ram/Storage.
 
