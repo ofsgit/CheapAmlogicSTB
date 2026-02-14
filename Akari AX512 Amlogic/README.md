@@ -1,5 +1,5 @@
 # Akari AX512 Amlogic S905X-B (ISP Box)
-![Screenshot]([https://example.com/image.png](https://ofsgit.github.io/CheapAmlogicSTB/Akari%20AX512%20Amlogic/asset/ax512front.jpg])
+![Screenshot](https://ofsgit.github.io/CheapAmlogicSTB/Akari%20AX512%20Amlogic/asset/ax512front.jpg)
 
 a typical Akari AX512 Box has the S905X-B Chipset, and has 2/16 Ram/Storage
 
