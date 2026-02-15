@@ -1,14 +1,17 @@
 # Unbrick (Flashing)
 
-this folder contains tutorial of how to unbrick your p212 Amlogic Box
+this folder contains a tutorial of how to unbrick your p212 Amlogic Box
 
-sometimes when you flash and something gone wrong, you can't flash it again and it errors
+sometimes when you flash a wrong binary or something gone wrong sometimes the bootloader/internal gets curroupted and sometimes 
+
+you can't flash it again and it shows a errors
 
 # Requirements:
 * SD Card (at least 8GB/ MAX 64GB)
 * Card Reader
 * a Windows Platform
 * USB Male to Male
+* Amlogic Box (P212)
 
 # Tutorial:
 # making a bootcard
@@ -34,4 +37,4 @@ sometimes when you flash and something gone wrong, you can't flash it again and 
 * After Completing, Unplug the box and eject the sdcard
 
 # After All Steps
-* Flash the box with Any firmware or the CheapAmlogicBox Firmware
+* Flash the box with Any firmware or the CheapAmlogicBox Firmware.
