@@ -2,9 +2,9 @@
 
 this folder contains a tutorial of how to unbrick your p212 Amlogic Box
 
-sometimes when you flash a wrong binary or something gone wrong sometimes the bootloader/internal gets curroupted and sometimes 
+sometimes when you flash a wrong binary or something goes wrong, sometimes the bootloader/internal gets curroupted and sometimes 
 
-you can't flash it again and it shows a errors
+you can't flash it again and it shows a error in UBL (Usb_Burning_Tool)
 
 # Requirements:
 * SD Card (at least 8GB/ MAX 64GB)
