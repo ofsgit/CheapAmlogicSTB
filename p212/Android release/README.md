@@ -1,4 +1,4 @@
-# Android™ 12 Release by CheapAmlogicSTB
+# Android™ 9 Release by CheapAmlogicSTB
  What's New:
  * Bare Minimum
  * fugu/fugu board
