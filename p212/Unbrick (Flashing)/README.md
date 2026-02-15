@@ -1,4 +1,5 @@
 # Unbrick (Flashing)
+This folder is on build, please wait a couple days
 
 this folder contains tutorial of how to unbrick your p212 Amlogic Box
 
