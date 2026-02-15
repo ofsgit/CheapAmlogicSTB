@@ -1,4 +1,5 @@
 # Android™ 9 Release by CheapAmlogicSTB
+this page is still on build, please wait a couple days
  What's New:
  * Bare Minimum
  * fugu/fugu board
