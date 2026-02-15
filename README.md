@@ -32,4 +32,6 @@ share your STB hardware findings on this page :)
 
 -for the community!
 
-Android™ is a Trademark of Google LLC. AOSP (AndroidOpenSourceProject) is a Trademark of Google LLC.
+Android™ is a Trademark of Google LLC.
+
+AOSP (AndroidOpenSourceProject) is a Trademark of Google LLC.
