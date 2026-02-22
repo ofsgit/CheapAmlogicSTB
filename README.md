@@ -8,12 +8,13 @@ Have fun with your new box:)
 -----------------------------
 # Why this repo?
 
-because this repo shares everything, from tools and image to flash it to your Amlogic set-top-boxes!
+because this repo shares everything, from tools and image/OS to flash it to your Amlogic set-top-boxes!
 
 My Tinker device:
 * Akari AX512 (ISP Box)
 * GenericAmlogicBox
 * p212
+* ZTE B860H/B860
 
 What i want to Experiment next:
 * H96 Max
