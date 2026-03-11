@@ -4,7 +4,7 @@
 Amlogic Box exists because its cheap, and works.
 This project has experiments, findings, hardware, and workflows related to cheap Amlogic devices often found in TV boxes, and in your garage;)
 
-Have fun with your new box:)
+Have fun with your box:)
 -----------------------------
 # Why this repo?
 
