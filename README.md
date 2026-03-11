@@ -10,12 +10,15 @@ Have fun with your new box:)
 
 because this repo shares everything, from tools and image/OS to flash it to your Amlogic set-top-boxes!
 
+Amlogic Processor by All:
+* S905X
+* S905X-B
+
 My Tinker device:
 * Akari AX512 (ISP Box)
 * GenericAmlogicBox
 * p212
 * ZTE B860H/B860
-* LGE SmartOTT
 
 What i want to Experiment next:
 * H96 Max
