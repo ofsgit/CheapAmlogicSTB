@@ -15,6 +15,7 @@ My Tinker device:
 * GenericAmlogicBox
 * p212
 * ZTE B860H/B860
+* LGE SmartOTT
 
 What i want to Experiment next:
 * H96 Max
