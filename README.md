@@ -32,11 +32,8 @@ share your STB hardware findings on this page :)
 
 
 # Credits:
-
 -Author by OFSGit
-
 -for the community!
 
-Android™ is a Trademark of Google LLC.
-
-This project is based on the Android Open Source Project (AOSP).
+*Android™ is a Trademark of Google LLC.*
+*This project is based on the Android Open Source Project (AOSP).*
