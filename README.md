@@ -13,11 +13,12 @@ because this repo shares everything, from tools and image/OS to flash it to your
 Amlogic Processor by All:
 * S905X
 * S905X-B
+* S905X-BV
 
 My Tinker device:
 * Akari AX512 (ISP Box)
 * GenericAmlogicBox
-* p212
+* p212 (ISP Box, Fiberhome)
 * ZTE B860H/B860
 
 What i want to Experiment next:
